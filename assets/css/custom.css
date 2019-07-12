@@ -1,0 +1,20 @@
+h1{
+  font-size: 18px;
+  border-left: #62970c solid 5px;
+  padding-left: 5px;
+  margin-bottom: 20px;
+}
+
+h2{
+  font-size: 16px;
+  margin-bottom: 15px
+}
+
+h3{
+  font-size: 15px;
+  margin-bottom: 10px
+}
+
+html,  body, #wrapper{
+  min-height: 100%;
+}
